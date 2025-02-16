@@ -2,7 +2,7 @@ const player = document.getElementById('player');
 const archeryGame = document.getElementById('archery-game');
 const target = document.getElementById('target');
 const startArcheryButton = document.getElementById('start-archery');
-
+//blah blah
 let playerX = 0;
 let playerY = 0;
 
